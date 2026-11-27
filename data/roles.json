@@ -1,0 +1,32 @@
+[
+    {
+        "id": "founder",
+        "name": "Fondateur",
+        "permissions": ["*"]
+    },
+    {
+        "id": "admin",
+        "name": "Administrateur",
+        "permissions": [
+            "members.view",
+            "members.manage",
+            "content.manage",
+            "settings.manage",
+            "applications.manage",
+            "logs.view"
+        ]
+    },
+    {
+        "id": "moderator",
+        "name": "Modérateur",
+        "permissions": [
+            "members.view",
+            "content.manage"
+        ]
+    },
+    {
+        "id": "member",
+        "name": "Membre",
+        "permissions": []
+    }
+]
