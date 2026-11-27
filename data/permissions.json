@@ -1,0 +1,10 @@
+[
+    "members.view",
+    "members.manage",
+    "roles.manage",
+    "content.manage",
+    "settings.manage",
+    "applications.manage",
+    "logs.view",
+    "backups.manage"
+]
