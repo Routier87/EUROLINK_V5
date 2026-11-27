@@ -1,0 +1,11 @@
+{
+    "site_name": "EUROLINK V5",
+    "site_description": "Bienvenue sur EUROLINK V5",
+    "site_logo": "",
+    "site_background": "",
+    "discord_url": "",
+    "primary_color": "#1769ff",
+    "secondary_color": "#081426",
+    "registration_enabled": true,
+    "maintenance_mode": false
+}
